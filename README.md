@@ -1,1 +1,1 @@
-# UIB_MIREA
+# UIB_MIREA Практические работы
